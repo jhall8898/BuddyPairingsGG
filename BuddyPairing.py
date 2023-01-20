@@ -79,5 +79,3 @@ def buddyPairing(fileName):
     else:
         print(check(), " is missing")
         print(finalGroups)
-        
-print(buddyPairing('/Users/hall/Desktop/Uni/buddypairing/GGBuddyPairing.xlsx'))
