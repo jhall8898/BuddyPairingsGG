@@ -1,6 +1,6 @@
 ## How to use:
 
-It's pretty simple to use, just download the folder and open EmailAutomation.py in whatever IDE you want, I like to use Thonny for Python.
+It's pretty simple to use, just download the folder and open EmailAutomation.py in whatever IDE you want, I like to use [Thonny](https://thonny.org/) for Python because it's ridiculously easy to use and doesn't really require any set-up.
 <br /><br />
 You will see three fields that need to be filled in: toList, email_sender, email_password. 
 <br /><br />
