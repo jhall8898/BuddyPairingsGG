@@ -5,10 +5,9 @@ from BuddyPairing import *
 
 
 
-toList = buddyPairing('/Users/hall/Desktop/Uni/buddypairing/GGBuddyPairing.xlsx')
-#  [['j3hall@ucsd.edu'], ['juitohall@gmail.com', 'girlgains.ucsd.edu']]
-email_sender = 'girlgainsucsd@gmail.com'
-email_password = 'trtu yflb iixi tkgm'
+toList = buddyPairing('Insert File Name')
+email_sender = 'Insert Sender Email'
+email_password = 'Insert Sender Email Password'
 subject = 'Girl Gains at UC San Diego Buddy Pairings'
 body = """
 Thank you for joining our buddy pairings! We have included your buddy in this email so please reach out to them to get to know each other.  Please keep in mind that while we do our best to ensure that everyone
